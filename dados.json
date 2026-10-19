@@ -1,0 +1,94 @@
+[
+
+{
+    "id": 1,
+    "termo": "Homem",
+    "categoria": "substantivo/gênero",
+    "descricao_busca": "Sinal do substantivo Homem em Libras.",
+    "uso_e_significado": "em fase de teste",
+    "video_url": "https://www.youtube.com/watch?v=j4_-cbbAVjM"
+},
+
+{
+    "id": 2,
+    "termo": "Mulher",
+    "categoria": "substantivo/gênero",
+    "descricao_busca": "Sinal do sustantivo Mulher em Libras.",
+    "uso_e_significado": "em fase de teste",
+    "video_url": "https://www.youtube.com/watch?v=LWnO5TvFLjg"
+},
+
+{
+    "id": 3,
+    "termo": "Pai",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal do substantivo Pai em Libras.",
+    "uso_e_significado": "em fase de teste",
+    "video_url": "https://www.youtube.com/watch?v=eVMXtVTcWNk"
+},
+
+{
+    "id": 4,
+    "termo": "Mãe",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal do substantivo Mãe em Libras.",
+    "uso_e_significado": "em fase de teste",
+    "video_url": "https://www.youtube.com/watch?v=eVMXtVTcWNk"
+},
+
+{
+    "id": 5,
+    "termo": "Inimigo",
+    "categoria": "Substantivo",
+    "descricao_busca": "Sinal do substantivo Inimigo em Libras.",
+    "uso_e_significado": "em fase de teste",
+    "video_url": "https://www.youtube.com/watch?v=Dca31up4mEQ"
+},
+
+
+{
+    "id": 6,
+    "termo": "Trair / Traição",
+    "categoria": "Verbo",
+    "descricao_busca": "Sinal do verbo Trair em Libras.",
+    "uso_e_significado": "em fase de teste",
+    "video_url": "https://www.youtube.com/watch?v=AmEBQ5fs02g"
+},
+
+{
+    "id": 7,
+    "termo": "Abaixo",
+    "categoria": "Advérbio",
+    "descricao_busca": "Sinal do advérbio Abaixo em Libras.",
+    "uso_e_significado": "em fase de teste",
+    "video_url": "https://www.youtube.com/watch?v=d_z0U4bX0SQ"
+}
+,
+{
+    "id": 8,
+    "termo": "Emcima",
+    "categoria": "Advérbio",
+    "descricao_busca": "Sinal do advérbio Emcima em Libras.",
+    "uso_e_significado": "em fase de teste",
+    "video_url": "https://www.youtube.com/watch?v=rx7Mp7iNkuA"
+},
+
+{
+    "id": 9,
+    "termo": "Filho/Filha",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal do substantivo filho e filha em Libras.",
+    "uso_e_significado": "em fase de teste",
+    "video_url": "https://www.youtube.com/watch?v=rWPWWotCnDg"
+},
+
+{
+    "id": 9,
+    "termo": "Neto/Neta",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal do substantivo Neto e Neta em Libras.",
+    "uso_e_significado": "em fase de teste",
+    "video_url": "https://www.youtube.com/watch?v=oPeYr6mfsIc"
+}
+
+]
