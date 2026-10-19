@@ -80,14 +80,14 @@
         <!-- Video & Term Result Card -->
         <div class="card">
           <div class="result-title">
-            <span id="displayTerm">Carregando...</span>
-            <span class="category-badge" id="displayCategory">Categoria</span>
+            <span id="displayTerm">Aguardando busca</span>
+            <span class="category-badge" id="displayCategory" hidden>Categoria</span>
           </div>
           <p class="result-description" id="displayDescription">
-            Selecione uma palavra na lista lateral para visualizar a demonstração em Libras.
+            Use o campo de busca para encontrar um sinal. Os resultados aparecerão aqui.
           </p>
           <!-- video painel -->
-          <div class="video-container">
+          <div class="video-container" id="videoContainer" hidden>
             <iframe id="youtubePlayer" class="video-player" src="" title="Vídeo em Libras" frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen>
@@ -115,7 +115,7 @@
         <div class="card usage-card">
           <h3>Uso e significado</h3>
           <p id="displayUsage">
-            Aguardando seleção do sinal para exibição das instruções gramaticais e contexto de uso em Libras.
+            As informações de uso e significado serão exibidas após selecionar um sinal.
           </p>
         </div>
 
