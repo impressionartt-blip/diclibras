@@ -28,6 +28,7 @@ const displayTerm = document.getElementById('displayTerm');
 const displayCategory = document.getElementById('displayCategory');
 const displayDescription = document.getElementById('displayDescription');
 const displayUsage = document.getElementById('displayUsage');
+const videoContainer = document.getElementById('videoContainer');
 const videoPlayer = document.getElementById('videoPlayer');
 const videoSource = document.getElementById('videoSource');
 const playBtn = document.getElementById('playBtn');
@@ -49,10 +50,8 @@ async function loadData() {
     dictionaryData = defaultData;
   }
   renderCategoryOptions();
-  renderList(dictionaryData);
-  if (dictionaryData.length > 0) {
-    selectItem(dictionaryData[0].id);
-  }
+  categoriesListEl.replaceChildren();
+  clearSelection();
 }
 
 // Render list sidebar
@@ -122,6 +121,17 @@ function applyFilters() {
   renderList(filtered);
 }
 
+function clearSelection() {
+  selectedId = null;
+  displayTerm.textContent = 'Aguardando busca';
+  displayCategory.textContent = 'Categoria';
+  displayCategory.hidden = true;
+  displayDescription.textContent = 'Use o campo de busca para encontrar um sinal. Os resultados aparecerão aqui.';
+  displayUsage.textContent = 'As informações de uso e significado serão exibidas após selecionar um sinal.';
+  youtubePlayer.removeAttribute('src');
+  videoContainer.hidden = true;
+}
+
 function closeCategoryMenu() {
   categoryMenu.hidden = true;
   categoryPickerBtn.setAttribute('aria-expanded', 'false');
@@ -140,27 +150,6 @@ document.addEventListener('click', (event) => {
 document.addEventListener('keydown', (event) => {
   if (event.key === 'Escape') closeCategoryMenu();
 });
-
-// Select Item and Display
-function selectItem(id) {
-  selectedId = id;
-  const item = dictionaryData.find(d => d.id === id);
-  if (!item) return;
-
-  displayTerm.textContent = item.termo;
-  displayCategory.textContent = item.categoria;
-  displayDescription.textContent = item.descricao_busca;
-  displayUsage.textContent = item.uso_e_significado;
-
-  videoSource.src = item.video_url;
-  videoPlayer.load();
-
-  // Update active state in UI
-  const elements = categoriesListEl.querySelectorAll('.category-item');
-  elements.forEach((el) => {
-    el.classList.toggle('active', el.dataset.itemId === String(id));
-  });
-}
 
 // Search and Filter
 searchForm.addEventListener('submit', (event) => {
@@ -275,12 +264,14 @@ function selectItem(id) {
 
   displayTerm.textContent = item.termo;
   displayCategory.textContent = item.categoria;
+  displayCategory.hidden = false;
   displayDescription.textContent = item.descricao_busca;
   displayUsage.textContent = item.uso_e_significado;
 
   // Converte a URL do YouTube para Embed e aplica no iframe
   const embedUrl = getYouTubeEmbedUrl(item.video_url);
   youtubePlayer.src = embedUrl;
+  videoContainer.hidden = false;
 
   // Atualiza destaque na lista lateral
   const elements = categoriesListEl.querySelectorAll('.category-item');
