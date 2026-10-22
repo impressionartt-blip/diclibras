@@ -1,6 +1,6 @@
 [
 {
-    "id": 0,
+    "id": 1,
     "termo": "origem da libras",
     "categoria": "curiosidades",
     "descricao_busca": "história da origem da Libras",
@@ -9,7 +9,7 @@
 },
     
 {
-    "id": 1,
+    "id": 2,
     "termo": "Homem",
     "categoria": "substantivo/gênero",
     "descricao_busca": "Sinal do substantivo Homem em Libras.",
@@ -18,7 +18,7 @@
 },
 
 {
-    "id": 2,
+    "id": 3,
     "termo": "Mulher",
     "categoria": "substantivo/gênero",
     "descricao_busca": "Sinal do sustantivo Mulher em Libras.",
@@ -27,7 +27,7 @@
 },
 
 {
-    "id": 3,
+    "id": 4,
     "termo": "Pai",
     "categoria": "Substantivo/Familiares",
     "descricao_busca": "Sinal do substantivo Pai em Libras.",
@@ -36,7 +36,7 @@
 },
 
 {
-    "id": 4,
+    "id": 5,
     "termo": "Mãe",
     "categoria": "Substantivo/Familiares",
     "descricao_busca": "Sinal do substantivo Mãe em Libras.",
@@ -45,7 +45,7 @@
 },
 
 {
-    "id": 5,
+    "id": 6,
     "termo": "Inimigo",
     "categoria": "Substantivo",
     "descricao_busca": "Sinal do substantivo Inimigo em Libras.",
@@ -55,7 +55,7 @@
 
 
 {
-    "id": 6,
+    "id": 7,
     "termo": "Trair / Traição",
     "categoria": "Verbo",
     "descricao_busca": "Sinal do verbo Trair em Libras.",
@@ -64,7 +64,7 @@
 },
 
 {
-    "id": 7,
+    "id": 8,
     "termo": "Abaixo",
     "categoria": "Advérbio",
     "descricao_busca": "Sinal do advérbio Abaixo em Libras.",
@@ -73,7 +73,7 @@
 }
 ,
 {
-    "id": 8,
+    "id": 9,
     "termo": "Emcima",
     "categoria": "Advérbio",
     "descricao_busca": "Sinal do advérbio Emcima em Libras.",
@@ -82,7 +82,7 @@
 },
 
 {
-    "id": 9,
+    "id": 10,
     "termo": "Filho/Filha",
     "categoria": "Substantivo/Familiares",
     "descricao_busca": "Sinal do substantivo filho e filha em Libras.",
@@ -91,7 +91,7 @@
 },
 
 {
-    "id": 9,
+    "id": 11,
     "termo": "Neto/Neta",
     "categoria": "Substantivo/Familiares",
     "descricao_busca": "Sinal do substantivo Neto e Neta em Libras.",
