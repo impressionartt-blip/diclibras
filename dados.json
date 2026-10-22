@@ -1,7 +1,7 @@
 [
 {
     "id": 1,
-    "termo": "origem da libras",
+    "termo": "origemLibras",
     "categoria": "curiosidades",
     "descricao_busca": "história da origem da Libras",
     "uso_e_significado": "conteúdo educacional",
@@ -20,7 +20,7 @@
 {
     "id": 3,
     "termo": "Mulher",
-    "categoria": "substantivo/gênero",
+    "categoria": "Substantivo/gênero",
     "descricao_busca": "Sinal do sustantivo Mulher em Libras.",
     "uso_e_significado": "em fase de teste",
     "video_url": "https://www.youtube.com/watch?v=LWnO5TvFLjg"
