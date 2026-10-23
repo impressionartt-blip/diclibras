@@ -2,10 +2,10 @@
 const defaultData = [
   {
     "id": 1,
-    "termo": "Compreender",
-    "categoria": "Verbo",
-    "descricao_busca": "Sinal do verbo compreender/entender em Libras.",
-    "uso_e_significado": "Utilizado para expressar o entendimento de um conceito ou mensagem. Realizado próximo à testa movimentando a mão de forma sutil.",
+    "termo": "OrigemLibras",
+    "categoria": "Curiosidades",
+    "descricao_busca": "",
+    "uso_e_significado": "",
     "video_url": "https://www.youtube.com/watch?v=WvfpW-mPNCo"
   }
 ];
