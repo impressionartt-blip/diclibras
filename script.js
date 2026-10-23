@@ -6,7 +6,7 @@ const defaultData = [
     "categoria": "Verbo",
     "descricao_busca": "Sinal do verbo compreender/entender em Libras.",
     "uso_e_significado": "Utilizado para expressar o entendimento de um conceito ou mensagem. Realizado próximo à testa movimentando a mão de forma sutil.",
-    "video_url": "";
+    "video_url": "",
   }
 ];
 
