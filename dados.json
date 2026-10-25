@@ -14,7 +14,7 @@
     "categoria": "substantivo/gênero",
     "descricao_busca": "Sinal do substantivo Homem em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "https://www.youtube.com/watch?v=j4_-cbbAVjM"
+    "video_url": "#"
 },
 
 {
@@ -23,7 +23,7 @@
     "categoria": "Substantivo/gênero",
     "descricao_busca": "Sinal do sustantivo Mulher em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "https://www.youtube.com/watch?v=LWnO5TvFLjg"
+    "video_url": "#"
 },
 
 {
@@ -32,7 +32,7 @@
     "categoria": "Substantivo/Familiares",
     "descricao_busca": "Sinal do substantivo Pai em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "https://www.youtube.com/watch?v=eVMXtVTcWNk"
+    "video_url": "#"
 },
 
 {
@@ -41,7 +41,7 @@
     "categoria": "Substantivo/Familiares",
     "descricao_busca": "Sinal do substantivo Mãe em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "https://www.youtube.com/watch?v=eVMXtVTcWNk"
+    "video_url": "#"
 },
 
 {
@@ -50,7 +50,7 @@
     "categoria": "Substantivo",
     "descricao_busca": "Sinal do substantivo Inimigo em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "https://www.youtube.com/watch?v=Dca31up4mEQ"
+    "video_url": "#"
 },
 
 
@@ -60,7 +60,7 @@
     "categoria": "Verbo",
     "descricao_busca": "Sinal do verbo Trair em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "https://www.youtube.com/watch?v=AmEBQ5fs02g"
+    "video_url": "#"
 },
 
 {
@@ -69,16 +69,16 @@
     "categoria": "Advérbio",
     "descricao_busca": "Sinal do advérbio Abaixo em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "https://www.youtube.com/watch?v=d_z0U4bX0SQ"
-}
-,
+    "video_url": "#"
+},
+
 {
     "id": 9,
     "termo": "Emcima",
     "categoria": "Advérbio",
     "descricao_busca": "Sinal do advérbio Emcima em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "https://www.youtube.com/watch?v=rx7Mp7iNkuA"
+    "video_url": "#"
 },
 
 {
@@ -87,7 +87,7 @@
     "categoria": "Substantivo/Familiares",
     "descricao_busca": "Sinal do substantivo filho e filha em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "https://www.youtube.com/watch?v=rWPWWotCnDg"
+    "video_url": "#"
 },
 
 {
@@ -96,7 +96,7 @@
     "categoria": "Substantivo/Familiares",
     "descricao_busca": "Sinal do substantivo Neto e Neta em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "https://www.youtube.com/watch?v=oPeYr6mfsIc"
+    "video_url": "#"
 },
 
 {
