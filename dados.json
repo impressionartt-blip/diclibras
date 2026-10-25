@@ -99,4 +99,13 @@
     "video_url": "https://www.youtube.com/watch?v=oPeYr6mfsIc"
 }
 
+{
+    "id": 12,
+    "termo": "Números de 0 a 10",
+    "categoria": "Númerais",
+    "descricao_busca": "Sinal dos números de 0 a 10 em Libras.",
+    "uso_e_significado": "sinalizar os numeros",
+    "video_url": "https://www.youtube.com/watch?v=uhYXweLlVP4"
+}    
+
 ]
