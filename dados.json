@@ -106,6 +106,15 @@
     "descricao_busca": "Sinal dos números de 0 a 10 em Libras.",
     "uso_e_significado": "sinalizar os numeros",
     "video_url": "https://www.youtube.com/watch?v=uhYXweLlVP4"
+},
+
+{
+    "id": 13,
+    "termo": "Alfabeto de A - Z",
+    "categoria": "Alfabeto",
+    "descricao_busca": "Sinal das letras do alfabeto em Libras.",
+    "uso_e_significado": "sinalizar as letras em libras ou fazer 'DATILOLOGIA', quando a palavra não tem um sinal próprio",
+    "video_url": "https://www.youtube.com/watch?v=oWVz2_buQ5o"
 }    
 
 ]
