@@ -112,8 +112,8 @@
     "id": 13,
     "termo": "Alfabeto de A - Z",
     "categoria": "Alfabeto",
-    "descricao_busca": "Sinal das letras do alfabeto em Libras.",
-    "uso_e_significado": "sinalizar as letras em libras ou fazer 'DATILOLOGIA', quando a palavra não tem um sinal próprio",
+    "descricao_busca": "Sinal das letras do alfabeto em Libras. Atenção! As setas direcionais em algumas imagens indicam o movimento do sinal e sua direção",
+    "uso_e_significado": "sinalizar as letras em libras ou fazer 'DATILOLOGIA', quando a palavra não tem um sinal próprio.",
     "video_url": "https://www.youtube.com/watch?v=oWVz2_buQ5o"
 }    
 
