@@ -115,6 +115,69 @@
     "descricao_busca": "Sinal das letras do alfabeto em Libras. Atenção! As setas direcionais em algumas imagens indicam o movimento do sinal e sua direção",
     "uso_e_significado": "sinalizar as letras em libras ou fazer 'DATILOLOGIA', quando a palavra não tem um sinal próprio.",
     "video_url": "https://www.youtube.com/watch?v=oWVz2_buQ5o"
-}    
+},
+
+{
+    "id": 14,
+    "termo": "segunda-feira",
+    "categoria": "Dias da semana",
+    "descricao_busca": "Sinal do dia da semana em Libras.",
+    "uso_e_significado": "Sinalizar o dia da semana",
+    "video_url": "https://www.youtube.com/watch?v=SnzZs7iMzcA"
+},
+
+{
+    "id": 15,
+    "termo": "terça-feira",
+    "categoria": "Dias da semana",
+    "descricao_busca": "Sinal do dia da semana em Libras.",
+    "uso_e_significado": "Sinalizar o dia da semana",
+    "video_url": "https://www.youtube.com/watch?v=qIrsgKQ2Tl8"
+},
+
+{
+    "id": 16,
+    "termo": "quarta-feira",
+    "categoria": "Dias da semana",
+    "descricao_busca": "Sinal do dia da semana em Libras.",
+    "uso_e_significado": "Sinalizar o dia da semana",
+    "video_url": "https://www.youtube.com/watch?v=blwnqr34dIo"
+},
+
+{
+    "id": 17,
+    "termo": "quinta-feira",
+    "categoria": "Dias da semana",
+    "descricao_busca": "Sinal do dia da semana em Libras.",
+    "uso_e_significado": "Sinalizar o dia da semana",
+    "video_url": "https://www.youtube.com/watch?v=Iqw1iY0wpu0"
+},
+
+{
+    "id": 18,
+    "termo": "sexta-feira",
+    "categoria": "Dias da semana",
+    "descricao_busca": "Sinal do dia da semana em Libras.",
+    "uso_e_significado": "Sinalizar o dia da semana",
+    "video_url": "https://www.youtube.com/watch?v=4QNt9gkrVHw"
+},
+
+{
+    "id": 19,
+    "termo": "sábado",
+    "categoria": "Dias da semana",
+    "descricao_busca": "Sinal do dia da semana em Libras.",
+    "uso_e_significado": "Sinalizar o dia da semana",
+    "video_url": "https://www.youtube.com/watch?v=Nm9YkNWCFPI"
+},
+
+{
+    "id": 20,
+    "termo": "domingo",
+    "categoria": "Dias da semana",
+    "descricao_busca": "Sinal do dia da semana em Libras.",
+    "uso_e_significado": "Sinalizar o dia da semana",
+    "video_url": "https://www.youtube.com/watch?v=Fx9PejVPI_Q"
+}
 
 ]
