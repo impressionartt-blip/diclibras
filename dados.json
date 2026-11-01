@@ -13,8 +13,8 @@
     "termo": "Homem",
     "categoria": "substantivo/gênero",
     "descricao_busca": "Sinal do substantivo Homem em Libras.",
-    "uso_e_significado": "em fase de teste",
-    "video_url": "#"
+    "uso_e_significado": "sinalisar a palavra homem ou usar com outro sinal para distinguir entre masculino e feminino",
+    "video_url": "https://www.youtube.com/watch?v=ke_-F28hZ8k"
 },
 
 {
@@ -179,5 +179,20 @@
     "uso_e_significado": "Sinalizar o dia da semana",
     "video_url": "https://www.youtube.com/watch?v=Fx9PejVPI_Q"
 }
-
+{
+    "id": 21,
+    "termo": "janeiro/fevereiro/março/abril/maio/junho/julho/agosto/setembro/outubro/novembro/dezembro",
+    "categoria": "meses do ano",
+    "descricao_busca": "Sinais dos meses do ano em Libras.",
+    "uso_e_significado": "Sinalizar o mês do ano",
+    "video_url": "https://www.youtube.com/watch?v=76Km2vf7270"
+},
+{
+    "id": 22,
+    "termo": "",
+    "categoria": "",
+    "descricao_busca": "Sinal d em Libras.",
+    "uso_e_significado": "Sinalizar ",
+    "video_url": "https://www.youtube.com/watch?v=Fx9PejVPI_Q"
+}
 ]
