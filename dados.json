@@ -23,7 +23,7 @@
     "categoria": "Substantivo/gênero",
     "descricao_busca": "Sinal do sustantivo Mulher em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "#"
+    "video_url": "https://www.youtube.com/watch?v=qBc1PMq0qaQ#"
 },
 
 {
@@ -32,7 +32,7 @@
     "categoria": "Substantivo/Familiares",
     "descricao_busca": "Sinal do substantivo Pai em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "#"
+    "video_url": "https://www.youtube.com/watch?v=ChS04jKJwSs"
 },
 
 {
@@ -41,7 +41,7 @@
     "categoria": "Substantivo/Familiares",
     "descricao_busca": "Sinal do substantivo Mãe em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "#"
+    "video_url": "https://www.youtube.com/watch?v=Qwu4xbQ5_68"
 },
 
 {
@@ -83,11 +83,11 @@
 
 {
     "id": 10,
-    "termo": "Filho/Filha",
+    "termo": "Filho",
     "categoria": "Substantivo/Familiares",
-    "descricao_busca": "Sinal do substantivo filho e filha em Libras.",
+    "descricao_busca": "Sinal do substantivo filho em Libras.",
     "uso_e_significado": "em fase de teste",
-    "video_url": "#"
+    "video_url": "https://www.youtube.com/watch?v=bKOsmvunmcc"
 },
 
 {
@@ -189,10 +189,46 @@
 },
 {
     "id": 22,
+     "termo": "Filha",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal do substantivo filha em Libras.",
+    "uso_e_significado": "em fase de teste",
+    "video_url": "https://www.youtube.com/watch?v=EptFBEnQEQc"
+},
+
+{
+    "id": 22,
     "termo": "",
     "categoria": "",
     "descricao_busca": "Sinal d em Libras.",
     "uso_e_significado": "Sinalizar ",
     "video_url": "https://www.youtube.com/watch?v=Fx9PejVPI_Q"
 }
+
+{
+    "id": 22,
+    "termo": "",
+    "categoria": "",
+    "descricao_busca": "Sinal d em Libras.",
+    "uso_e_significado": "Sinalizar ",
+    "video_url": "https://www.youtube.com/watch?v=Fx9PejVPI_Q"
+}
+
+{
+    "id": 22,
+    "termo": "",
+    "categoria": "",
+    "descricao_busca": "Sinal d em Libras.",
+    "uso_e_significado": "Sinalizar ",
+    "video_url": "https://www.youtube.com/watch?v=Fx9PejVPI_Q"
+}
+
+{
+    "id": 22,
+    "termo": "",
+    "categoria": "",
+    "descricao_busca": "Sinal d em Libras.",
+    "uso_e_significado": "Sinalizar ",
+    "video_url": "https://www.youtube.com/watch?v=Fx9PejVPI_Q"
+}    
 ]
