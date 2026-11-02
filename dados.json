@@ -197,38 +197,38 @@
 },
 
 {
-    "id": 22,
-    "termo": "",
-    "categoria": "",
-    "descricao_busca": "Sinal d em Libras.",
-    "uso_e_significado": "Sinalizar ",
-    "video_url": "https://www.youtube.com/watch?v=Fx9PejVPI_Q"
-}
+    "id": 23,
+    "termo": "avó",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal de avó em Libras.",
+    "uso_e_significado": "Sinalizar avó em libras ",
+    "video_url": "https://www.youtube.com/watch?v=bUflcZ0mgp4"
+},
 
 {
-    "id": 22,
-    "termo": "",
-    "categoria": "",
-    "descricao_busca": "Sinal d em Libras.",
-    "uso_e_significado": "Sinalizar ",
-    "video_url": "https://www.youtube.com/watch?v=Fx9PejVPI_Q"
-}
+    "id": 24,
+    "termo": "avô",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal de avô em Libras.",
+    "uso_e_significado": "Sinalizar avô em libras",
+    "video_url": "https://www.youtube.com/watch?v=EuWcCFz6LQ8"
+},
 
 {
-    "id": 22,
-    "termo": "",
+    "id": 25,
+    "termo": "bisavó",
     "categoria": "",
-    "descricao_busca": "Sinal d em Libras.",
-    "uso_e_significado": "Sinalizar ",
-    "video_url": "https://www.youtube.com/watch?v=Fx9PejVPI_Q"
-}
+    "descricao_busca": "Sinal de bisavó em Libras.",
+    "uso_e_significado": "Sinalizar bisavó em Libras.",
+    "video_url": "https://www.youtube.com/watch?v=DudTxiac0bc"
+},
 
 {
-    "id": 22,
-    "termo": "",
+    "id": 26,
+    "termo": "bisavô",
     "categoria": "",
-    "descricao_busca": "Sinal d em Libras.",
-    "uso_e_significado": "Sinalizar ",
-    "video_url": "https://www.youtube.com/watch?v=Fx9PejVPI_Q"
+    "descricao_busca": "Sinal de bisavô em Libras.",
+    "uso_e_significado": "Sinalizar bisavô em Libras.",
+    "video_url": "https://www.youtube.com/watch?v=uM_F5Aze0D0"
 }    
 ]
