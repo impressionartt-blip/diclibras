@@ -230,5 +230,49 @@
     "descricao_busca": "Sinal de bisavô em Libras.",
     "uso_e_significado": "Sinalizar bisavô em Libras.",
     "video_url": "https://www.youtube.com/watch?v=uM_F5Aze0D0"
+},
+    {
+    "id": 27,
+    "termo": "Neto",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal do substantivo Neto em Libras.",
+    "uso_e_significado": "sinalizar a palavra neta em libras",
+    "video_url": "https://www.youtube.com/watch?v=NyuGZTPmtd8"
+},
+
+{
+    "id": 28,
+    "termo": "tio",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal do substantivo tio em Libras.",
+    "uso_e_significado": "sinalizar a palavra neta em libras",
+    "video_url": "https://www.youtube.com/watch?v=nZ-QRz_1Xjo"
+},
+
+{
+    "id": 29,
+    "termo": "tia",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal do substantivo tia em Libras.",
+    "uso_e_significado": "sinalizar a palavra neta em libras",
+    "video_url": "https://www.youtube.com/watch?v=CzLGYjPDYCk"
+},
+
+{
+    "id": 30,
+    "termo": "Sobrinho",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal do substantivo sobrinho em Libras.",
+    "uso_e_significado": "sinalizar a palavra neta em libras",
+    "video_url": "https://www.youtube.com/watch?v=tbUnlNX_mR0"
+},    
+
+{
+    "id": 31,
+    "termo": "Sobrinha",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal do substantivo sobrinha em Libras.",
+    "uso_e_significado": "sinalizar a palavra neta em libras",
+    "video_url": "https://www.youtube.com/watch?v=3hr-yIiWyCQ"
 }    
 ]
