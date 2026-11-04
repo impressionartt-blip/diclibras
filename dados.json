@@ -274,5 +274,24 @@
     "descricao_busca": "Sinal do substantivo sobrinha em Libras.",
     "uso_e_significado": "sinalizar a palavra neta em libras",
     "video_url": "https://www.youtube.com/watch?v=3hr-yIiWyCQ"
-}    
+},
+
+{
+    "id": 32,
+    "termo": "Carnaval",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal de carnaval em Libras.",
+    "uso_e_significado": "sinalizar a palavra carnaval em libras",
+    "video_url": "https://www.youtube.com/watch?v=AQL1Z5x6ZLk"
+},
+
+{
+    "id": 33,
+    "termo": "Carnaval",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal de carnaval em Libras.",
+    "uso_e_significado": "sinalizar a palavra carnaval em libras",
+    "video_url": "https://www.youtube.com/watch?v=GRc-Z0OtvS4"
+}
+    
 ]
