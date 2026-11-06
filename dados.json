@@ -300,7 +300,79 @@
     "categoria": "Datas comemorativas",
     "descricao_busca": "Sinal de Páscoa em Libras.",
     "uso_e_significado": "sinalizar a palavra carnaval em libras",
-    "video_url": " https://www.youtube.com/watch?v=ZBIXM0Me1jg"
+    "video_url": "https://www.youtube.com/watch?v=ZBIXM0Me1jg"
+},
+
+{
+    "id": 35,
+    "termo": "Dia dos professores",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal do dia dos professores em Libras.",
+    "uso_e_significado": "sinalizar dia dos professores em libras",
+    "video_url": "https://www.youtube.com/watch?v=tw1YEWz5ReU"
+},
+
+{
+    "id": 36,
+    "termo": "Dia das crianças",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal do dia das crianças em Libras.",
+    "uso_e_significado": "sinalizar dia das crianças em libras",
+    "video_url": "https://www.youtube.com/watch?v=AHaQhScjMfg"
+},    
+
+{
+    "id": 37,
+    "termo": "Dia de Finados",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal do dia de Finados em Libras.",
+    "uso_e_significado": "sinalizar dia de finados em libras",
+    "video_url": "https://www.youtube.com/watch?v=r_sBQiZqk3U"
+},  
+
+{
+    "id": 38,
+    "termo": "Dia da consciência negra",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal do dia da consciência negra em Libras.",
+    "uso_e_significado": "sinalizar dia da consciência negra em libras",
+    "video_url": "https://www.youtube.com/watch?v=Jt0w_tWN6k0"
+},  
+
+{
+    "id": 39,
+    "termo": "Dia de São João",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal do dia de Sâo João em Libras.",
+    "uso_e_significado": "sinalizar dia de São João em libras",
+    "video_url": "https://www.youtube.com/watch?v=MK6WPX3kKQ4"
+},      
+    
+{
+    "id": 40,
+    "termo": "Férias",
+    "categoria": "Substantivo",
+    "descricao_busca": "Sinal de férias em Libras.",
+    "uso_e_significado": "sinalizar a palavra férias em libras",
+    "video_url": "https://www.youtube.com/watch?v=WkyoO80L24Q"
+},  
+
+{
+    "id": 41,
+    "termo": "Dia da Independência",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal do dia da independência em Libras.",
+    "uso_e_significado": "sinalizar dia da independência em libras",
+    "video_url": "https://www.youtube.com/watch?v=Niwoa8hx80A"
+},
+
+{
+    "id": 42,
+    "termo": "Dia do surdo",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal do dia do surdo em Libras.",
+    "uso_e_significado": "sinalizar dia do surdo em libras",
+    "video_url": "https://www.youtube.com/watch?v=Rao16Eo0JEA"
 }
-   
+
 ]
