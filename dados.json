@@ -382,5 +382,60 @@
     "descricao_busca": "Sinal do dia dos Pais em Libras.",
     "uso_e_significado": "sinalizar dia dos Pais em libras",
     "video_url": "https://www.youtube.com/watch?v=BGYXuH7btpM"
+},
+
+{
+    "id": 44,
+    "termo": "Réveillon - Ano novo",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal de Réveillon ou ano novo em Libras.",
+    "uso_e_significado": "sinalizar Réveillon ou ano novo em libras",
+    "video_url": "https://www.youtube.com/watch?v=lzTfy2JHEzI"
+},    
+
+{
+    "id": 45,
+    "termo": "Genro",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal do Genro em Libras.",
+    "uso_e_significado": "sinalizar de Genro em libras",
+    "video_url": "https://www.youtube.com/watch?v=urWEV6gMnuo"
+},
+
+{
+    "id": 46,
+    "termo": "Natal",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal de Natal em Libras.",
+    "uso_e_significado": "sinalizar de Natal em libras",
+    "video_url": "https://www.youtube.com/watch?v=F_nlQ3T5f7U"
+},
+
+{
+    "id": 47,
+    "termo": "Nora",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal de Nora em Libras.",
+    "uso_e_significado": "sinalizar de Nora em libras",
+    "video_url": "https://www.youtube.com/watch?v=0AyQY49F8HM"
+},
+
+{
+    "id": 48,
+    "termo": "Enteado - Enteada",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal de Enteado e Enteada em Libras.",
+    "uso_e_significado": "sinalizar de Enteado e Enteada em libras",
+    "video_url": "https://www.youtube.com/watch?v=DCPQjRXgXM4"
+},    
+
+{
+    "id": 49,
+    "termo": "Sogro - Sogra",
+    "categoria": "Substantivo/Familiares",
+    "descricao_busca": "Sinal de Sogro e Sogra em Libras.",
+    "uso_e_significado": "sinalizar de Sogro e Sogra em libras",
+    "video_url": "https://www.youtube.com/watch?v=5VxoXzhkiZw"
 }
+
 ]
