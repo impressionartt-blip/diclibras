@@ -436,6 +436,38 @@
     "descricao_busca": "Sinal de Sogro e Sogra em Libras.",
     "uso_e_significado": "sinalizar de Sogro e Sogra em libras",
     "video_url": "https://www.youtube.com/watch?v=5VxoXzhkiZw"
+},
+    
+{
+    "id": 50,
+    "termo": "Dia dos namorados",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal dia dos namorados em Libras.",
+    "uso_e_significado": "sinalizar dia dos namorados em libras",
+    "video_url": "https://www.youtube.com/watch?v=lLesrTXphps"
+},
+
+{
+    "id": 51,
+    "termo": "Dia das Mães",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal dia das Mães em Libras.",
+    "uso_e_significado": "sinalizar dia das Mães em libras",
+    "video_url": "https://www.youtube.com/watch?v=XJwNaAoYLjI"
+},
+
+    
+{
+    "id": 52,
+    "termo": "Dia do trabalhador",
+    "categoria": "Datas comemorativas",
+    "descricao_busca": "Sinal dia do trabalhador em Libras.",
+    "uso_e_significado": "sinalizar dia do trabalhador em libras",
+    "video_url": "https://www.youtube.com/watch?v=Id6cfYcXFIo"
 }
+
+
+
+
 
 ]
