@@ -307,6 +307,13 @@
       font-size: 22px;
     }
 
+    .equipefoto{
+      width: 54px;
+      height: 54px;
+      border-radius: 20%;
+      object-fit: cover;
+    }
+
     .team-member h3 {
       margin-bottom: 4px;
       font-size: 16px;
